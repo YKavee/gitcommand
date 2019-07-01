@@ -3,3 +3,8 @@
 3.What is the function of 'git checkout' in git?
 4.What is the function of 'git rm' ?
 5.What is the function of 'git stash apply'?
+6.What is the use of 'git log'?
+7.What is 'git add' is used for?
+8.What is the function of 'git reset'?
+9.What does it mean to push and pull changes?
+10.What is a conflict in git and how can it be resolved?
